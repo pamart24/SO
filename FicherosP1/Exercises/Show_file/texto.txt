@@ -1,0 +1,11 @@
+Texto de prueba
+Para el ejercicio 1 de la práctica 1
+
+...
+
+Ejercicio 1:
+
+a) gcc -o show_file show_file.c
+
+b) gcc -c -o show_file.o show_file.c
+   gcc -g -o show_file show_file.o
